@@ -1,7 +1,3 @@
-# ┌──────┬────────────────────────────────────────┬────────────┐
-# │ Mod  │ Universal Gallery Unlocker by ModAuthor│ 2023-04-03 │
-# └──────┴────────────────────────────────────────┴────────────┘
-
 init -1000 python:
     _GalleryUnlockerMod = _GalleryUnlockerMod()
 
